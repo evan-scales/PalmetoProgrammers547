@@ -22,3 +22,6 @@ CONNECTION_STRING="Host=localhost; Database=shop_dev; Username=dev; Password=dev
 ```
 
 Alternativly, add the connection string to the environment vars.
+
+## Testing
+Run Tests using `dotnet test`.
